@@ -1,4 +1,4 @@
-# 🎮 Quiz Game (Python)
+# Quiz Game (Python)
 
 A command-line Quiz Game developed in Python.
 
@@ -24,7 +24,7 @@ A command-line Quiz Game developed in Python.
 ```
 Quiz-Game/
 │
-├── quiz.py
+├── main.py
 └── README.md
 ```
 
